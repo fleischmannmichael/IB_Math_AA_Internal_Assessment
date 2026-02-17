@@ -21,4 +21,4 @@ Results
 
     Euclidean Accuracy: 73.33%
 
-Created by [Your Name] for IB Mathematics Analysis and Approaches HL.
+Created by Michael Fleischmann for IB Mathematics Analysis and Approaches HL.
