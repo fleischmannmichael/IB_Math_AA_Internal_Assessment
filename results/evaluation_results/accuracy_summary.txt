@@ -1,0 +1,6 @@
+--- Classification Accuracy Summary ---
+Total Test Images: 15
+
+Euclidean: 73.33% (11/15)
+Manhattan: 73.33% (11/15)
+Cosine: 80.00% (12/15)

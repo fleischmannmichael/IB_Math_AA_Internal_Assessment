@@ -1,0 +1,16 @@
+Image,True_Class,Pred_E,Pred_M,Pred_C,Dist_E_Slice,Dist_E_Whole,Dist_E_Box,Dist_C_Slice,Dist_C_Whole,Dist_C_Box
+test_pizza_slice_4.npy,pizza_slice,pizza_slice,pizza_slice,pizza_slice,3875.73,4540.19,3991.8,0.2263,0.2422,0.2355
+test_pizza_slice_2.npy,pizza_slice,pizza_slice,pizza_slice,pizza_slice,3688.94,4305.48,4128.29,0.2087,0.2184,0.257
+test_pizza_slice_3.npy,pizza_slice,pizza_slice,pizza_slice,pizza_slice,4463.89,4693.32,4796.25,0.1821,0.2074,0.2238
+test_pizza_slice_1.npy,pizza_slice,pizza_slice,whole_pizza,whole_pizza,4633.75,4689.88,4736.73,0.2506,0.2299,0.2625
+test_pizza_slice_0.npy,pizza_slice,pizza_box,pizza_box,pizza_box,4576.28,4945.16,4501.74,0.2007,0.234,0.1961
+test_whole_pizza_3.npy,whole_pizza,whole_pizza,whole_pizza,whole_pizza,4156.25,2639.04,4348.04,0.1545,0.0635,0.1798
+test_whole_pizza_2.npy,whole_pizza,whole_pizza,whole_pizza,whole_pizza,3696.03,3338.61,3813.16,0.1506,0.1182,0.1653
+test_whole_pizza_0.npy,whole_pizza,whole_pizza,whole_pizza,whole_pizza,4424.29,3222.54,4545.24,0.1388,0.081,0.1593
+test_whole_pizza_1.npy,whole_pizza,whole_pizza,whole_pizza,whole_pizza,4028.47,3024.83,4715.34,0.1856,0.0969,0.2668
+test_whole_pizza_4.npy,whole_pizza,pizza_box,pizza_box,pizza_box,3455.81,4438.23,3155.13,0.1527,0.2211,0.1256
+test_pizza_box_4.npy,pizza_box,whole_pizza,pizza_box,pizza_box,4351.59,4090.19,4147.03,0.1696,0.1562,0.1537
+test_pizza_box_0.npy,pizza_box,pizza_box,pizza_box,pizza_box,3697.27,4680.53,3122.64,0.2012,0.2563,0.1394
+test_pizza_box_1.npy,pizza_box,pizza_slice,pizza_slice,pizza_box,3438.73,4415.75,3450.21,0.2262,0.2365,0.215
+test_pizza_box_3.npy,pizza_box,pizza_box,pizza_box,pizza_box,3563.9,4602.61,3029.44,0.2138,0.2574,0.1494
+test_pizza_box_2.npy,pizza_box,pizza_box,pizza_box,pizza_box,3031.49,3738.57,2963.8,0.1434,0.1631,0.1347
